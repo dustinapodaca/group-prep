@@ -5,6 +5,11 @@
 # Group-Prep
 Project Week Prep
 
+## Group Members:
+  - Dustin Apodaca
+  - Maximo VincenteMejia
+  - Michael Kancov
+  - Mathieu Roberts
 ___
 
 ### Cooperation Plan
